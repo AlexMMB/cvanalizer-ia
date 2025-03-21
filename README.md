@@ -23,11 +23,3 @@ El proyecto está en modo de pruebas y actualmente se encuentra en desarrollo.
 Este proyecto está protegido bajo los derechos de autor. Todo el código fuente y los recursos del proyecto están disponibles bajo la licencia estándar de [insertar tipo de licencia, por ejemplo, MIT].
 
 **Nota:** Este proyecto se encuentra en modo de pruebas y aún está en desarrollo. No se garantiza su funcionamiento sin problemas en este estado.
-
-## Instalación y uso
-Para ejecutar el proyecto localmente, sigue estos pasos:
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/analisis-cvs-ia.git
